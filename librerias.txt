@@ -1,0 +1,9 @@
+numpy
+matplotlib
+sympy
+scipy
+jupyter
+montu
+rebound
+pymcel
+plotly
