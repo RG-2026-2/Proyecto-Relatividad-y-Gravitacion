@@ -31,11 +31,11 @@
 
 - Repositorio original: https://github.com/juanfersalgado/Proyecto-Relatividad-y-Gravitacion
 - Fecha de creación del repositorio: 2026-04-13 (antes del 14 de abril: si)
-- Total de commits desde creación del repo: 5
+- Total de commits desde creación del repo: 6
 - Primer commit: 2026-04-13
-- Último commit: 2026-05-28
-- Días activos con commits: 5
-- Semanas activas con commits: 3
+- Último commit: 2026-06-02
+- Días activos con commits: 6
+- Semanas activas con commits: 4
 - Mayor pausa entre commits: 24 días
 
 ### Aplicación al repositorio
